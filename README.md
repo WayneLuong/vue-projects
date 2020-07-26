@@ -1,3 +1,3 @@
 # vue-projects
 
-Vue Projects
+Vue Projects VueX
