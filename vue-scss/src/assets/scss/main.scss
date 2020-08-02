@@ -1,0 +1,11 @@
+@import './mixins/variables.scss';
+@import './mixins/mixins.scss';
+
+.hello {
+    h3 {
+      color: green;
+    }
+    span{
+      color: $color-primary;
+    }
+  }
