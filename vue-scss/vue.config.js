@@ -6,4 +6,5 @@ module.exports = {
         } */
     }
 }
-/* https://github.com/vuejs/vue-cli/tree/dev/docs/config#configurewebpack */
+/* https://github.com/vuejs/vue-cli/tree/dev/docs/config#configurewebpack
+https://github.com/vuejs/vue-cli/tree/dev/docs */
