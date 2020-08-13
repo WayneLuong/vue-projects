@@ -2,7 +2,7 @@
 
 Vue Projects VueX
 
-### cmd commands ##
+### cmd commands ###
 
 - vue create hello-world
 - vue ui
