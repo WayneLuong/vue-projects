@@ -2,7 +2,7 @@
   <div id="app">
     <Header />
     <router-view />
-    <!-- Always in root -->
+    <!-- Always in roots -->
   </div>
 </template>
 
